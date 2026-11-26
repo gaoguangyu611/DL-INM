@@ -1,0 +1,17 @@
+# Reference Python version: 3.8.19 
+# For CUDA execution, select a PyTorch build compatible with your GPU driver.
+
+# Numerical computing
+numpy==1.24.3
+scipy==1.8.1
+
+# Neural networks
+torch==2.3.1
+
+# Image processing and plotting
+scikit-image==0.20.0
+matplotlib==3.7.2
+
+# HDF5 input and progress reporting
+h5py==3.9.0
+tqdm==4.66.5
